@@ -1,0 +1,2 @@
+largefile.extension filter=lfs diff=lfs merge=lfs -text
+C:/Users/hp/Desktop/app1/NEWDETECTOR/app/trained_model/plant_disease_prediction_model.h5 filter=lfs diff=lfs merge=lfs -text
